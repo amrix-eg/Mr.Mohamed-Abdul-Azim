@@ -54,7 +54,7 @@ The portfolio provides students and visitors with an overview of the teacher's q
 
 ## </> Developers
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0) & [Mohamed Samir](https://github.com/PrimeDevX)**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0) & [Mohamed Samir](https://github.com/PrimeDevX)**
 
 ---
 
